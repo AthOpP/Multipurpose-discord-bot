@@ -1,8 +1,8 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
+    "token": "MTMwMTkyNDI1NDMyOTIwODg5Mw.GoSALj.5JvWUr6CjAmGMMkfUi5cT7jbFn4j5f_vk9f9n0",
     "prefix": "//",
     "ownerIDS": [
-        "442355791412854784"
+        "1178366697044971662"
     ],
     "fnbr": "GET from: https://fnbr.co",
     "fortnitetracker": "GET from: https://fortnitetracker.com",
@@ -16,9 +16,10 @@
     "clientsettings": {
         "nodes": [
             {
-                "host": "localhost",
-                "port": 2333,
-                "password": "youshallnotpass"
+                "host": "38.22.104.155",
+                "port": 1084,
+                "password": "azey_development",
+                "secure": false
             }
         ]
     },
